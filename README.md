@@ -10,7 +10,7 @@ For more details about the implementation and the file(s), see Readme.txt
 
 Main reference: 
 
-Complete flux scheme with variable velocity fields with applications to coupled systems of equations.
+H. M. Cheng and J. H. M. ten Thije Boonkkamp. Complete flux scheme with variable velocity fields with applications to coupled systems of equations.
 
 Other related references:
 
@@ -21,5 +21,5 @@ scheme for advection-diffusion-reaction equations. Journal of Scientific Computi
 unstructured 1d grids for a singularly perturbed advection-diffusion equation and some multidimensional extensions. 
 Journal of Scientific Computing, 72(1):373-395, Jul 2017.
 
-3. H. M. Cheng and J. ten Thije Boonkkamp. A Generalised Complete Flux scheme for
+3. H. M. Cheng and J. H. M. ten Thije Boonkkamp. A Generalised Complete Flux scheme for
 anisotropic advection-diffusion equations. Advances in Computational Mathematics, 47(2), 2021.
